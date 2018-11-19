@@ -53,4 +53,8 @@ p {
 .press {
   display: inline-block;
 }
+
+.footer {
+  font-size: 0.75em;
+}
 /* Write all remaining styles here */
