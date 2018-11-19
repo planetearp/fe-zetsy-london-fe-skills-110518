@@ -22,15 +22,11 @@ h1 {
   font-size: 5em;
   font-family: 'Baskerville', serif;
   margin: 0px 0px 0px;
+  border-bottom: 1px solid rgb(152,173,166);
 }
 
 h1:hover {
   color: rgb(111,127,122);
-}
-
-#hrule {
-  margin-bottom: 4px;
-  color: rgb(152,173,166);
 }
 
 #featured-img {
