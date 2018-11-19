@@ -55,6 +55,7 @@ p {
 }
 
 .footer {
+  text-align: right;
   font-size: 0.75em;
 }
 /* Write all remaining styles here */
