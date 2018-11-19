@@ -51,6 +51,6 @@ p {
 }
 
 .press {
-  float: left;
+  display: inline-block;
 }
 /* Write all remaining styles here */
