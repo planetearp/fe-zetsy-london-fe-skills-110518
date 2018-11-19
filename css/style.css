@@ -18,7 +18,11 @@ body {
 }
 
 h1 {
-  color: ;
+  color: rgb(152,173,166);
+}
+
+h1:hover {
+  
 }
 /* rgb(152,173,166); 
 hover rgb(111,127,122); */ 
