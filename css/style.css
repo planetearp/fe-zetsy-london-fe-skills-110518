@@ -30,6 +30,16 @@ h1:hover {
   color: rgb(111,127,122);
 }
 
+h2 {
+  color: ;
+}
+
+p {
+    color: #555;
+    font-size: 1em;
+    margin: 0 0 20px 0;
+}
+
 #featured-img {
   border: solid 5px rgb(152,173,166);
 }
