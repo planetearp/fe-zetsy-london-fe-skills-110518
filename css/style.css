@@ -21,8 +21,7 @@ h1 {
   color: rgb(152,173,166);
   font-size: 5em;
   font-family: 'Baskerville', serif;
-  margin-top: 0px;
-  margin-bottom:;
+  margin: 0px 0px 0px;
 }
 
 h1:hover {
